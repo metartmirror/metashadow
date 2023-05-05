@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: ec6ca5e1b34f1ad41844680416557e3a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -6875948710725317524
+    second: EkectricBox_G|Box003|Take 001|BaseLayer
+  - first:
+      74: 6565883848746472099
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.001
+  - first:
+      74: -366540676205366945
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.002
+  - first:
+      74: -738846877715371362
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.003
+  - first:
+      74: 1005653817939329718
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.004
+  - first:
+      74: -8372648606628004553
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.005
+  - first:
+      74: 217471771247890009
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.006
+  - first:
+      74: -221172571549054063
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.007
+  - first:
+      74: 3569746512674844082
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.008
+  - first:
+      74: 862263404635050552
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.009
+  - first:
+      74: 8632045650213640269
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.010
+  - first:
+      74: -4499686482633765233
+    second: EkectricBox_G|Box003|Take 001|BaseLayer.011
+  - first:
+      74: -3313902069859610910
+    second: EkectricBox_G|Sky001|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_ground
+    second: {fileID: 2100000, guid: 195e04473befe424c808802fb9e88602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: a9830e0183f1208489592b3a0b688846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 5d176dfaa2ae97a4eae64d672550e3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None1
+    second: {fileID: 2100000, guid: 514c007b2b822cd42aa75b7737db0713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side_around
+    second: {fileID: 2100000, guid: 6d01f556c0bff0f458e2e29fc85581e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side_yellow
+    second: {fileID: 2100000, guid: 71126b4eec9c3de478e300d897dd4266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandcase
+    second: {fileID: 2100000, guid: 4df2b56c965cc754391b50c0b9946b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_corridor
+    second: {fileID: 2100000, guid: 73b8e53cbf9ec354d908d57b1967166b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp_body
+    second: {fileID: 2100000, guid: b4d8d2d44513b214faceb37f45be0d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp_light
+    second: {fileID: 2100000, guid: f548d6d014523094b80e7261d111a452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp_light02
+    second: {fileID: 2100000, guid: 51008ead7e8679a4e85b33995a6bb2e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp_stand
+    second: {fileID: 2100000, guid: e93334d1b3c8a374b8471a8cab81c434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_steel
+    second: {fileID: 2100000, guid: 539a7aa7a0d57ee46a171f4c117baba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_steel02
+    second: {fileID: 2100000, guid: d6a601d05b55dbd47b14105a59bc3c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: column_body
+    second: {fileID: 2100000, guid: 1a1b1e736c9e09445bb916f230e93f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: column_metal
+    second: {fileID: 2100000, guid: 900efd22172aaeb41bef36f1830da9ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_ceiling
+    second: {fileID: 2100000, guid: ddb0e8293950b94428df07705ed0d7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_ceiling_wind
+    second: {fileID: 2100000, guid: 6c061b945c451f84c96322281787948a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_ceiling_wind_frame
+    second: {fileID: 2100000, guid: f0a9bd84e462c6145bcc8936c7504e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_side
+    second: {fileID: 2100000, guid: 562bbc06220fc9a44b9b90a15b292b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_ladder
+    second: {fileID: 2100000, guid: 82e404b1d2a7f444da08ea9bcc15e6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_pipe
+    second: {fileID: 2100000, guid: cc41ace0ac90d454aa7b14829bc9717d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_slope
+    second: {fileID: 2100000, guid: e2de141a07360dc46b9bdaf2aecf8c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_stairs
+    second: {fileID: 2100000, guid: 6555a97b0030e5541b6e5a03b165d451, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

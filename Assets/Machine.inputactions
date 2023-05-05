@@ -1,0 +1,66 @@
+{
+    "name": "Machine",
+    "maps": [
+        {
+            "name": "Machine",
+            "id": "2c5b0854-b5a8-4101-b784-5a32fc95195a",
+            "actions": [
+                {
+                    "name": "Switch",
+                    "type": "Button",
+                    "id": "b7e69e4f-ac48-4258-863a-d80b4c07ae91",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Put Camera",
+                    "type": "Button",
+                    "id": "ce325bde-56cd-4563-94fe-00248a0e695d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b7e561d2-122f-47ae-b37d-7c143971439f",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Machine",
+                    "action": "Switch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c76333b7-e71b-4d0f-9105-664ec1cb2f3f",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Machine",
+                    "action": "Put Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Machine",
+            "bindingGroup": "Machine",
+            "devices": [
+                {
+                    "devicePath": "<XRController>{RightHand}",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

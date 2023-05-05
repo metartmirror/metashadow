@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/Unity3DRuntimeTransformGizmo"]
+	path = Assets/Plugins/Unity3DRuntimeTransformGizmo
+	url = https://github.com/wtong2017/Unity3DRuntimeTransformGizmo.git
